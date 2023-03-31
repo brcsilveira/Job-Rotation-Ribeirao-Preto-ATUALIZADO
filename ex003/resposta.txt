@@ -1,0 +1,11 @@
+a) A lógica é adicionar 2 a cada número, então o próximo número é 9.
+
+b) A lógica é multiplicar cada número por 2, então o próximo número é 128.
+
+c) A lógica é elevar cada número ao quadrado, então o próximo número é 49.
+
+d) A lógica é elevar cada número par ao quadrado, então o próximo número é 100.
+
+e) A lógica é adicionar os dois números anteriores para obter o próximo número da sequência, então o próximo número é 13.
+
+f) A lógica não é muito clara, pois não há uma regra clara que determine a sequência. Podem haver várias possíveis respostas para essa questão.

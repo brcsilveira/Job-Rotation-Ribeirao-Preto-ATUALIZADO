@@ -1,0 +1,26 @@
+Resposta:
+
+- O carro estará mais próximo da cidade de Ribeirão Preto.
+
+Explicação:
+
+    Carro:
+        velocidade média = distância percorrida / tempo decorrido
+        110 km/h = 100 km / tempo decorrido
+        tempo decorrido = 0,91 horas
+
+        Distância percorrida pelo carro = velocidade média x tempo decorrido
+        Distância percorrida pelo carro = 110 km/h x 0,91 horas = 100 km
+    
+    Caminhão:
+        tempo decorrido no pedágio = 5 minutos = 5/60 horas = 0,0833 horas
+        velocidade média = distância percorrida / tempo decorrido
+        80 km/h = 100 km / (tempo decorrido + 2 x tempo decorrido no pedágio)
+        80 km/h = 100 km / (tempo decorrido + 2 x 0,0833 horas)
+        80 km/h x (tempo decorrido + 0,1666 horas) = 100 km
+        80 km/h x tempo decorrido + 13,33 km = 100 km
+        80 km/h x tempo decorrido = 86,67 km
+        tempo decorrido = 1,08 horas
+
+        Distância percorrida pelo caminhão = velocidade média x tempo decorrido
+        Distância percorrida pelo caminhão = 80 km/h x 1,08 horas = 86,4 km
